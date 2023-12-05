@@ -1,0 +1,11 @@
+.todos {
+    list-style: none;
+    margin: 2rem auto;
+    padding: 0;
+    width: 40rem;
+    color: blue;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+  }
